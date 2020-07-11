@@ -9,4 +9,4 @@ Concepts Include:
 * Creating microsoft access forms
 * Performing EDA R and SQL
 
-![](doc/logic/logical-diagram.png)
+![logical diagram](https://user-images.githubusercontent.com/33853282/87225458-29443e80-c35b-11ea-8175-998742212c7d.png)
